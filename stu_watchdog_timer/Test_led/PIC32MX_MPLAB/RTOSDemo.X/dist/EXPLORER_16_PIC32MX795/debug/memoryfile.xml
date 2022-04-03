@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/EXPLORER_16_PIC32MX795/debug/RTOSDemo.X.debug.elf">                 
+    <memory name="program">                 
+      <units>bytes</units>                 
+      <length>525456</length>                 
+      <used>21788</used>                     
+      <free>503668</free>                     
+    </memory>                              
+    <memory name="data">              
+      <units>bytes</units>                 
+      <length>65536</length>                 
+      <used>29756</used>                     
+      <free>35780</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
